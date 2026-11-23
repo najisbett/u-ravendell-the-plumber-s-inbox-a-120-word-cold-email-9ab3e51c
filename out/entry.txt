@@ -1,0 +1,13 @@
+Your Friday night invoicing, handled
+
+Hi {{first_name}},
+
+Most plumbers I talk to spend about 5 hours a week on invoices, receipts and chasing payments, usually after dark. That is roughly 260 hours a year, or about six full work weeks.
+
+I run a bookkeeping service for trades businesses. For a flat $350 a month, I log every job, match your receipts, send invoices within 24 hours of completion, and chase anything unpaid after 14 days. You get a one-page summary each month showing what you earned and what you owe.
+
+If you want, send me one month of paperwork and I will return it organised, free.
+
+Would that be useful?
+
+[Your name]

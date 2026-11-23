@@ -1,0 +1,34 @@
+[
+  {
+    "subject": "Your Friday night invoicing, handled",
+    "body": "Hi {{first_name}},\n\nMost plumbers I talk to spend about 5 hours a week on invoices, receipts and chasing payments, usually after dark. That is roughly 260 hours a year, or about six full work weeks.\n\nI run a bookkeeping service for trades businesses. For a flat $350 a month, I log every job, match your receipts, send invoices within 24 hours of completion, and chase anything unpaid after 14 days. You get a one-page summary each month showing what you earned and what you owe.\n\nIf you want, send me one month of paperwork and I will return it organised, free.\n\nWould that be useful?\n\n[Your name]"
+  },
+  {
+    "subject": "Quarterly tax bill: no surprises",
+    "body": "Hi {{first_name}},\n\nA sole-trader plumber earning $120,000 can owe close to $30,000 in tax. Many only find out in April, when there is no time to plan.\n\nI do bookkeeping for tradespeople. Each month I categorise your van costs, tools, parts and subcontractor payments, then tell you what to set aside. Most clients find $2,000 to $4,000 a year in deductions they had missed, like mileage and tool depreciation.\n\nMy fee is $350 monthly, with no contract. You can cancel with 30 days' notice.\n\nI can run a free review of your last quarter and show you the numbers. Shall I send over a short form?\n\n[Your name]"
+  },
+  {
+    "subject": "Unpaid invoices at your shop?",
+    "body": "Hi {{first_name}},\n\nThe average small trades business waits 38 days to be paid, and some jobs are never paid in full. For a plumber billing $10,000 a month, that is often $3,000 to $4,000 sitting out at any one time.\n\nI handle bookkeeping for plumbers. I send each invoice the day the job closes, add a polite reminder at day 7 and day 14, and flag anything older than 30 days to you by text. You make one call only when it truly matters.\n\nThe service costs $350 a month. Most clients recover the fee from a single late invoice.\n\nWould a 15-minute call this week suit you?\n\n[Your name]"
+  },
+  {
+    "subject": "Can you see your real profit per job?",
+    "body": "Hi {{first_name}},\n\nQuick question: do you know which of your jobs actually made money last month? Most plumbers I meet do not. They know the invoice total, but not parts, fuel and hours.\n\nAs your bookkeeper, I would track costs against every job and give you a simple table: revenue, materials, labour, margin. Typically one or two job types, like small repairs under $200, turn out to lose money once travel time is counted. Dropping or repricing them can add 5 to 10 points of margin.\n\nThe cost is $350 a month, billed monthly.\n\nIf you send me last month's invoices, I will build the table for free. Interested?\n\n[Your name]"
+  },
+  {
+    "subject": "Getting your evenings back",
+    "body": "Hi {{first_name}},\n\nYou probably start work at 7am and finish the paperwork at 9pm. I would like to change the second part.\n\nI offer remote bookkeeping for plumbers. You take a photo of each receipt and forward it to me, and I do the rest: categorise, reconcile your bank account, prepare your GST or sales tax figures, and keep everything ready for your accountant. Most clients spend under 10 minutes a week on it.\n\nThe price is $350 a month. That is about what you would earn from two hours of callout work, and it frees up around 20 hours a month.\n\nWould you like to try it for one month?\n\n[Your name]"
+  },
+  {
+    "subject": "Before your accountant bills you for the mess",
+    "body": "Hi {{first_name}},\n\nAccountants often charge $100 to $200 an hour to sort out shoebox receipts at year end. For a typical plumbing business, that clean-up runs $1,500 to $3,000.\n\nI keep your books tidy every month so that bill shrinks. I reconcile your accounts, categorise expenses, and prepare a clean file your accountant can finish in an hour or two. My fee is $350 a month, and many clients save more than half of that in reduced accountant time alone.\n\nI work with several local trades businesses and can share references on request.\n\nWould it help if I looked at your current setup and told you honestly what needs fixing?\n\n[Your name]"
+  },
+  {
+    "subject": "Hiring your first apprentice? Check the numbers",
+    "body": "Hi {{first_name}},\n\nTaking on an apprentice usually costs $45,000 to $60,000 a year once you add wages, insurance, tools and payroll tax. Many plumbers decide on gut feel, because their books cannot answer a simple question: can we afford this?\n\nI provide bookkeeping for trades businesses. Each month you get cash flow, profit, and a forecast for the next 90 days, so a hiring decision rests on real figures. I also set up payroll records and filings so nothing is missed.\n\nThe fee is $350 a month, no lock-in contract.\n\nIf you are thinking about growth, I can model your first hire for free. Shall I do that?\n\n[Your name]"
+  },
+  {
+    "subject": "A cheaper option than a part-time office hire",
+    "body": "Hi {{first_name}},\n\nA part-time office assistant at 15 hours a week costs roughly $1,000 to $1,400 a month, plus training, sick leave and supervision. Many plumbers hire one mainly to handle paperwork.\n\nMy bookkeeping service covers the money side for $350 a month: invoicing, receipts, bank reconciliation, payments chased and monthly reports. It will not answer your phone, but it removes the task that follows you home.\n\nI work only with trades businesses, so I already know the usual items, such as supplier statements, van expenses and subcontractor payments.\n\nWould you like a free two-week trial on your current paperwork?\n\n[Your name]"
+  }
+]
